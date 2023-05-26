@@ -1,0 +1,28 @@
+body{
+    font-family: 'Bree Serif', serif;
+    background-color: rgb(249, 241, 241);
+}
+/* header */
+header{
+    background-color: black;
+    color: white;
+}
+
+/* introduction */
+#intro{
+    text-align: justify;
+   
+}
+
+/* profile img */
+#profile-img{
+    box-shadow: 0px 0px 6px 3px gray;
+}
+
+#Academic{
+    box-shadow: 0px 0px 6px 3px rgb(150, 93, 93);
+}
+
+.height{
+    height: 250px;
+}
